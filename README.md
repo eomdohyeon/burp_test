@@ -1,5 +1,10 @@
 # Video evidence of delays due to burp suite update
 
+This issue has been confirmed on Mac (Intel) and Windows versions (I suspect it may be the same on other platforms, but I haven't checked).
+
+This symptom was installed and tested based on the Community Edition, which provides only the minimum functions, and we inform you that the same symptom occurs in the Pro version.
+
+
 ## Burp Suite Community Edition- 23.12.1.5
 Instant response and no delay
 
